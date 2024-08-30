@@ -1,0 +1,27 @@
+{
+  "projects": [
+    "**Next.js Integration Project**: Focused on leveraging the Next.js framework's capabilities for server-side rendering, static site generation, and file-based routing, this project aims to build dynamic, responsive web applications with a seamless integration with headless CMS.",
+    "**Cross-functional Development Initiative**: This initiative explores collaborative work patterns involving multiple teams to enhance the implementation of server components, client components, and state management across applications using tools like Next.js and React.",
+    "**Backend Integration and Architecture Optimization**: A strategic project aimed at optimizing architecture and deployment scenarios by integrating backend technologies utilizing Node.js, V8 engine, and server actions to improve API routes and server-side workflows.",
+    "**Hydration and Scalability Enhancements**: Focused on improving the hydration processes in Next.js applications to boost performance and scalability through state management optimization and incremental static generation techniques."
+  ],
+  "competencies": [
+    "Advanced **Next.js** Knowledge",
+    "Expertise in **React** and its Ecosystem",
+    "Proficiency in **Server-side Rendering** and **Static Site Generation**",
+    "Experience with **API Routes** and **Server Actions**",
+    "Skilled in **Cross-functional Development**",
+    "Deep Understanding of **Web Architecture Design** and **Deployment**",
+    "Familiar with **AWS Amplify** and **Vercel** for Cloud Services",
+    "Effective State Management using **SWR** and **React Router**"
+  ],
+  "titles": [
+    "Front-end Developer",
+    "React Developer",
+    "Full Stack Developer (Next.js Focus)",
+    "JavaScript Engineer",
+    "Web Development Specialist"
+  ],
+  "description_long": "As a **Front-end Developer** specializing in the **Next.js** framework, your role involves developing and optimizing web applications with a focus on server-side rendering, static site generation, and dynamic routing. You'll leverage tools such as **React**, **Node.js**, **webpack**, and the **V8 engine** to build high-performance applications. Key responsibilities include implementing **server actions** and managing **API routes** while ensuring effective hydration and utilizing a headless CMS for content management. Your work supports cross-functional teams in delivering scalable and efficient web solutions through advanced ***state management** using tools like **SWR** and **React Router**. You will also be deploying applications using platforms like **Vercel** and **AWS Amplify** to ensure smooth production workflows.",
+  "description_short": "Develop and optimize web applications using Next.js, focusing on server-side rendering and static site generation. Collaborate on cross-functional projects, manage server actions, API routes, and deploy solutions on platforms like Vercel and AWS Amplify."
+}

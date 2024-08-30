@@ -1,0 +1,29 @@
+{
+  "projects": [
+    "UI Component Enhancement with Contentful and Stackbit: Improving user interface design through the implementation of hero banners and content sections, optimizing alignment between article and product pages, and establishing systems for content model migrations.",
+    "Next.js Integration Initiative: Exploring the capabilities of Next.js to utilize server-side rendering, focusing on server actions, API routes, and the transition between pages and app routers for full-stack development.",
+    "Content Migration and Management Strategies: Developing techniques for managing and migrating content using Contentful, including creating migration scripts and improving naming conventions and content model management.",
+    "Responsive Design with Panda CSS: Developing responsive product lists using Panda CSS, integrating Contentful, and overcoming related challenges in responsive web design.",
+    "Site Localization and StackPit Customization: Efficiently managing multiple site localizations by customizing StackPit settings and implementing content type filtering and preset management.",
+    "AI Integration Exploration: Leveraging AI technologies like GPT-4 and Langchain for embedding data in applications, addressing challenges like privacy and model limitations.",
+    "Developer Experience Enhancement: Enhancing the developer experience and feature delivery through engineering platforms, using tools like Postman, Docker, and GitHub Actions, focusing on automation and API governance."
+  ],
+  "competencies": [
+    "UI/UX Design and Development: Competency in creating and enhancing user interfaces for web applications, with a strong focus on responsive design and component integration using tools like Figma and Contentful.",
+    "Full-stack Web Development: Proficiency in server-side and client-side programming with frameworks like Next.js, React.js, and Node.js, incorporating API routes and static generation techniques.",
+    "Content Management and Migration: Expertise in managing complex content structures and migrations using Contentful, focusing on content model adaptation and data consistency.",
+    "Localization and Internationalization: Ability to customize web applications for multiple locales through tailored content management practices and site localization techniques.",
+    "AI Integration and Utilization: Knowledge of incorporating AI tools and models in software applications, addressing practical challenges related to AI model limitations and privacy concerns.",
+    "Developer Experience Optimization: Experience in enhancing the software development lifecycle using industry standard tools and practices to improve collaborative work environments."
+  ],
+  "titles": [
+    "Senior Front-End Developer",
+    "Web UI/UX Designer",
+    "Full-Stack Developer",
+    "Digital Content Manager",
+    "Software Engineer",
+    "Technical Project Lead"
+  ],
+  "description_long": "As a Senior Front-End Developer, you will play a pivotal role in enhancing web application interfaces and ensuring an optimal user experience. Your primary focus will be on implementing and customizing UI components using **Contentful** and **Stackbit**, while maintaining visual alignment across various sections such as hero banners and product pages. Proficiency in **Next.js** and **React.js** is essential, as you will leverage these technologies to optimize server integration and client-side rendering, using server actions and API routes.\n\nYou will be responsible for spearheading content management strategies, involving content model migration and the implementation of naming conventions using **rich text** and **Markdown**. Your work will ensure seamless data modeling and interface integration, supported by tools like **storyboard** and **Figma**.\n\nYour expertise in **Panda CSS** will aid in developing responsive design solutions for websites, creating adaptive layouts with a focus on cross-device compatibility. Your role will also involve customizing localizations with **StackPit** and managing content filtering across multiple sites.\n\nMoreover, you will explore AI integration projects utilizing technologies such as **GPT-4** and **Langchain**, assessing their application in the development environment, while ensuring privacy and efficiency.\n\nA crucial part of your responsibility will include enhancing developer experience through engineering platforms, using **Postman**, **Docker**, and **GitHub Actions** to streamline the build, integration, and deployment processes, fostering a collaborative and agile development culture. You will also manage project timelines, collaborate across teams, and document processes effectively to ensure delivery aligns with strategic objectives.",
+  "description_short": "Our company seeks a skilled Senior Front-End Developer to enhance web UI designs using Contentful and Stackbit. The role involves UI component customization, content model migration, and responsive design with Panda CSS. Proficiency in Next.js and experience with AI integration, such as using GPT-4, is preferred. Additionally, responsibilities include optimizing developer experience with tools like Docker and GitHub Actions."
+}
